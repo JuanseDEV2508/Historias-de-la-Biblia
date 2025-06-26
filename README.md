@@ -29,5 +29,5 @@ Viaja al corazón de las Escrituras. Vive las historias que cambiaron al mundo.
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/historias-de-la-biblia.git
+   git clone https://github.com/tuusuario/historias-de-la-biblia.git  https://github.com/JuanseDEV2508/Historias-de-la-Biblia.git
 
